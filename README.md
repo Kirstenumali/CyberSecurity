@@ -8,6 +8,8 @@ Analyzing the malicious software from its origin.
 
 ## Challenges in Computer Forensics
 **Encryption**: Encrypted files and communications are difficult to access without the nessesary decrytion keys, posing clallenges for forensics investigations.
+
 **Cloud Computing**: The decentralized nature of cloud storage makes it harder to acquire and preserve evidence, as data can spread acress multiple servers in different jurisdiction.
+
 **Evolving Technology**: As technology advances, forensic methods must continually evolve to hadle new types of devices, operating systems, and cyber threats.
 
