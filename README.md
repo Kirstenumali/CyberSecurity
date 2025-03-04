@@ -16,10 +16,15 @@ Analyzing the malicious software from its origin.
 
 ## Keyboard
 Ctrl + shift + T will open a new terminal on Kali Linux.
+
 Alt + shift + S to rename the tab of the terminal.
+
 ping <IPAddress> to ping the IP address.
+
 sudo nano /etc/hosts to save the ipaddress for later for you to just put the username and ping the username with the indication of IP address.
+
 nmap -p- silverplatter.thml -T5 -v  to check the available open ports.
+
 nmap -p 22,80,8080 -A silverplatter.thml -v -T5 to check all the open ports, ip address, and the resources which you are searching on.
 
 ``` bash
