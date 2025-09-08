@@ -53,3 +53,5 @@ Read data files from: /usr/bin/../share/nmap
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
 Nmap done: 1 IP address (1 host up) scanned in 21.93 seconds
 ```
+
+Cyber Security says, "To protect your company, implement strong passwords and multi-factor authentication, keep all software and systems updated, conduct regular security audits and backups, train employees to recognize phishing and other threats, use firewalls and antivirus software, and employ encryption and VPNs to secure networks and data, especially when working remotely.  "
