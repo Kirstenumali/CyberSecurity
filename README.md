@@ -3,6 +3,11 @@
 # Computer Forensics 
 The technical field of computer forensics finds and saves evidence from a computer device using investigative methods. Computer forensics is frequently utilized to find evidence that might be presented in court. Areas outside of investigations are also included in computer forensics. 
 
+## To connect the VPN in Virtual Machine
+``` bash
+sudo openvpn TeneBrae (hit tab)
+```
+
 ## Malware Forensics 
 Analyzing the malicious software from its origin. 
 
