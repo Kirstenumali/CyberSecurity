@@ -8,6 +8,20 @@ The technical field of computer forensics finds and saves evidence from a comput
 sudo openvpn TeneBrae (hit tab, enter)
 ```
 
+## Dirsearch
+``` bash
+pipx uninstall dirsearch
+sudo apt install dirsearch
+dirsearch -u [Target URL]
+```
+Using Dirsearch
+
+VHost Fuzzing Script
+https://github.com/TeneBrae93/offensivesecurity/blob/main/vhost-fuzzer.sh
+
+VHost Fuzzing Syntax
+./vhost-fuzzer.sh [Domain] [Wordlist] [URL] [FS Filter]
+
 ## Malware Forensics 
 Analyzing the malicious software from its origin. 
 
