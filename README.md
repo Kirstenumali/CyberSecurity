@@ -5,7 +5,7 @@ The technical field of computer forensics finds and saves evidence from a comput
 
 ## To connect the VPN in Virtual Machine
 ``` bash
-sudo openvpn TeneBrae (hit tab)
+sudo openvpn TeneBrae (hit tab, enter)
 ```
 
 ## Malware Forensics 
